@@ -1,0 +1,13 @@
+1.Setup environment for learning TypeScript
+    npm install -g typescript
+2.Using Visual Studio Code as editor for learning typescript
+3.Configuring TypeScript options and start learning
+    add “tsconfig.json” file to “src” folder
+    add HTML file “index.html”, 
+4.Setting Task Runner to transpile AKA compile to JavaScript
+    using Cntrl+Shift+B in VS code, we get this warning telling “No task runner configured”. Then click on “Configure Task Runner” to create tasks.json file
+5.Using lite-server for running web application in Visual Studio code (VS Code)
+
+
+TODO:
+use browser sync
