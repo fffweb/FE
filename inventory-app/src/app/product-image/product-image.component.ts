@@ -2,17 +2,17 @@ import { Component, OnInit } from '@angular/core';
 import { Product } from '../product.model';
 
 @Component({
-  selector: 'product-row',
+  selector: 'product-image',
   inputs: ['product'],
-  templateUrl: './product-row.component.html',
-  styleUrls: ['./product-row.component.css']
+  templateUrl: './product-image.component.html',
+  styleUrls: ['./product-image.component.css']
 })
-export class ProductRowComponent implements OnInit {
+export class ProductImageComponent implements OnInit {
   product: Product;
+
   constructor() { }
 
   ngOnInit() {
   }
 
 }
-
