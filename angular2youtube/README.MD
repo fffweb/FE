@@ -1,3 +1,4 @@
+Angular 2 with Webpack Project Setup - Part 5: Webpack Dev Server (youtube)
 typescript Declaretion file
     Version 2.2.1
     PS C:\Users\liuff\Source\GitHub\FE\angular2youtube> .\node_modules\.bin\tsc --rootDir src --outDir dist
@@ -28,3 +29,6 @@ install typings, typings folder and typings.json
     npm install --save-dev typings
     typings search core-js
     typings install --global --save dt~core-js
+
+step 5
+    bundle,cp html, insert js script
